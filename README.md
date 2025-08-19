@@ -3,6 +3,7 @@
 
 
 # Game Resolution Scaler (GRS)
+#可用，但需要root mode--2025-08-19
 The Game Resolution scaler is a unified implementation for custom resolutions on Android, compatible from android 5.0 (*lollipop*) all the way up to android 11, compatible with both rooted **and** rootless devices !
 
 ## Features
